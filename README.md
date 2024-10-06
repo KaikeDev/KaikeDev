@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KaikeDev
-- 👀 I’m interested in  em ser um programador
-- 🌱 I’m currently learning Java e JavaScript
+- 👀 I’m interested in become a software developer
+- 🌱 I’m currently learning Java | JavaScript | TypeScript | FrameWork Angular | Spring Boot
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
