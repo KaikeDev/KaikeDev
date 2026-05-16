@@ -11,9 +11,7 @@ Atualmente atuo como desenvolvedor Jr utilizando **PHP com Laravel**, além de c
 - PHP (Laravel)
 - Java
 - JavaScript
-- TypeScript
-- Angular
-- Spring Boot
+- Python
 - MySQL / MariaDB
 
 ## Experiência atual
