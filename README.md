@@ -3,11 +3,11 @@
 💻 Desenvolvedor Júnior na SCI  
 🚀 Focado em desenvolvimento backend e full stack
 
-## 👀 Sobre mim
+## Sobre mim
 Sou apaixonado por tecnologia e desenvolvimento de software.  
 Atualmente atuo como desenvolvedor Jr utilizando **PHP com Laravel**, além de continuar estudando e evoluindo em outras tecnologias.
 
-## 🌱 Tecnologias que estou estudando e usando
+## Tecnologias que estou estudando e usando
 - PHP (Laravel)
 - Java
 - JavaScript
@@ -16,21 +16,20 @@ Atualmente atuo como desenvolvedor Jr utilizando **PHP com Laravel**, além de c
 - Spring Boot
 - MySQL / MariaDB
 
-## 💼 Experiência atual
+## Experiência atual
 - Desenvolvedor Júnior na SCI
 - Desenvolvimento de aplicações web com Laravel
 - Integração com APIs e bancos de dados relacionais
 
-## 💞️ Objetivos
-- Evoluir como desenvolvedor backend
+## Objetivos
+- Evoluir como desenvolvedor fullstack
 - Melhorar arquitetura de software e boas práticas
-- Contribuir com projetos open-source
+- Contribuir com projetos
 - Aprender mais sobre sistemas escaláveis
 
 ## 📫 Contato
 - GitHub: [KaikeDev](https://github.com/KaikeDev)
-- LinkedIn: *(adicione aqui se tiver)*
-- Email: *(adicione aqui se quiser)*
+- LinkedIn: *https://www.linkedin.com/in/kaike-tuerpe-a8011421b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app*
 
 ---
 
